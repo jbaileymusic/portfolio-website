@@ -1,0 +1,4 @@
+Linters used:
+
+HTMLHint (extension)
+Stylelint (extension)
